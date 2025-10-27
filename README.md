@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning "How To Use gitHub&Team project"
 - ⚡ Fun fact: I bad at programming :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?C-sewon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![C-sewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-sewon)](https://github.com/anuraghazra/github-readme-stats)
