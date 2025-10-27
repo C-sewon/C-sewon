@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💡 My Hobby : playing Drum, Watching Movie
 - 📫 email : cswley0130@naver.com
 
-[출처] GitHub 프로필 꾸미는 팁 — 개발자의 첫인상을 결정하는 1페이지|작성자 타미TOMMY
 [![C-sewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-sewon)](https://github.com/anuraghazra/github-readme-stats)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
